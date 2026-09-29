@@ -1,0 +1,9 @@
+Constants are written in the following order; adjacency matrix, #Edges, #Vertices, density, concentration vector, derivative vector, numBlocks
+
+0	1	1	0	1	0	0	1	1	0	0	1	0	1	1	0
+4
+4
+0.05
+0.0125	0.0125	0.0125	0.0125	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+13

@@ -1,0 +1,9 @@
+Data is arranged as: First row contains the number of isomorphism classes, deltaweak and deltastrong, Second row contains the number of trees per each isomorphism class, each subsequent row is the delta vectors for one of the isomorphism classes
+6.0	-2.0	-15.0
+1	1	1	1	1	1
+-15.0	-15.0	-15.0	-15.0	-15.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0
+-15.0	-15.0	-15.0	-15.0	-2.0	-2.0	-2.0	-2.0	-15.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0
+-15.0	-15.0	-15.0	-2.0	-2.0	-2.0	-2.0	-15.0	-15.0	-2.0	-2.0	-2.0	-2.0	-2.0	-2.0
+-15.0	-15.0	-15.0	-2.0	-2.0	-2.0	-2.0	-15.0	-2.0	-2.0	-2.0	-15.0	-2.0	-2.0	-2.0
+-15.0	-15.0	-2.0	-2.0	-2.0	-2.0	-15.0	-15.0	-2.0	-2.0	-2.0	-15.0	-2.0	-2.0	-2.0
+-15.0	-2.0	-15.0	-2.0	-2.0	-2.0	-2.0	-15.0	-2.0	-15.0	-2.0	-15.0	-2.0	-2.0	-2.0
